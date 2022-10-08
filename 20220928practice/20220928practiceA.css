@@ -1,0 +1,59 @@
+#textpaddingmarginone {
+  background-color: salmon;
+  padding: 50px;
+  border-radius: 20px 40px 60px 80px;
+  border: 2px black solid;
+  margin: 20px 40px 60px 80px;
+  position: relative;
+}
+
+#textpaddingmargintwo {
+  background-color: yellow;
+  padding: 50px;
+  border-radius: 20px 40px 60px 80px;
+  border: 2px black solid;
+  position: relative;
+}
+
+#backgrounddemo {
+  background-image: url("https://images.unsplash.com/photo-1664286244753-7f5e25a2eb0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+#parentone {
+  background-color: red;
+  width: 100vw;
+  height: 1000px;
+
+}
+
+#childone {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+  width: 50vw;
+  z-index:3;
+}
+
+#textone {
+  text-size-adjust: 20em;
+}
+
+#childtwo {
+  position: relative;
+  left: 300px;
+  background-color: yellowgreen;
+  width: 50vw;
+  z-index:2;
+}
+
+#texttwo {
+  font-weight: 3em;
+}

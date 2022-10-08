@@ -1,0 +1,105 @@
+#parent-one {
+  background-color: salmon;
+  height: 100vh;
+  display: flex;
+  flex-direction: ;
+  flex-wrap: ;
+  flex-flow: ;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: ;
+}
+
+
+#child-one {
+  background-color: darkblue;
+  height: 300px;
+  width: 300px;
+  flex-grow: 2;
+}
+
+#child-two {
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  flex-shrink: 3;
+}
+
+#child-three {
+  background-color: lightblue;
+  height: 300px;
+  width: 300px;
+}
+
+#section-two {
+  background-color: green;
+  height: 1000px;
+}
+
+#box-one {
+  background-color: brown;
+  height: 300px;
+  width: 300px;
+  transform: rotate(45deg);
+}
+
+#box-two {
+  background-color: orange;
+  height: 300px;
+  width: 300px;
+  transform: scale(1, 2);
+}
+
+#box-three {
+  background-color: purple;
+  height: 300px;
+  width: 300px;
+  transform: skew(0, 45deg);
+}
+
+#section-three {
+  background-color: orangered;
+  height: 1000px;
+}
+
+#box-four {
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  animation-name: move-box;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+  position: relative;
+}
+
+@keyframes move-box {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left:800px;
+    top: 0px;
+  }
+  100% {
+    left: 800px;
+    top: 400px;
+  }
+}
+
+#section-four {
+  background-color: violet;
+  height: 1000px;
+}
+
+#box-five {
+  background-color: firebrick;
+  height: 150px;
+  width: 150px;
+  transition-duration: 0.2s;
+}
+
+#box-five:hover{
+  background-color: red;
+  height:250px;
+  width:250px;
+}

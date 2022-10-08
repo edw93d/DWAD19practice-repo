@@ -1,0 +1,15 @@
+.boxes1{
+  background-color: salmon;
+  height: 150px;
+  width: 150px;
+  border-width: 2px;
+  border: 2px black solid;
+}
+
+.boxes2{
+  background-color: lightblue;
+  height: 150px;
+  width: 150px;
+  border-width: 2px;
+  border: 2px black solid;
+}

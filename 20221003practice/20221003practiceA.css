@@ -1,0 +1,30 @@
+#bg-color {
+  height: 100vh;
+  background-color: yellow;
+}
+
+#box1 {
+  background-color: red;
+  Height: 200px;
+  width: 200px;
+}
+
+@media screen and (max-width:600px) {
+  #bg-color {
+    background-color: salmon;
+  }
+
+  #box1 {
+    display: block;
+  }
+}
+
+@media screen and (min-width:600px) {
+  #bg-color {
+    background-color: blue;
+  }
+
+  #box1 {
+    display: none;
+  }
+}

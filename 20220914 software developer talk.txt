@@ -1,0 +1,70 @@
+software developer - expectations?
+
+Ramco - B2B HR/ ERP
+Shopee/ Grab
+
+
+design and implement solutions based on stakeholder requirements
+test, quality assurance
+maintenance, upgrade
+documentation for future reference
+
+GoLang
+ReactJs
+GitCLI
+AWS/ Google Cloud/ Azure
+
+google
+stackoverflow
+reddit
+
+geekforgeeks
+hackerrank
+leetcode
+
+make it work
+make it simple
+
+input range/ size
+solution complexity
+coding language
+
+General Knowledge:
+computer science fundamentals
+awareness of latest tech stacks
+
+Coding:
+Pen and paper coding
+online IDE
+
+System design:
+high level architecture for hypothetical system
+use of industry-standard diagrams expected
+treat interviewer as your prospective client
+
+entity relationship diagram
+normalization schema
+
+ask more questions during the interview
+solve their problem
+
+why did i design this, this way:
+security
+reliability
+scalability - scale out, scale up
+sustainability - is your tech stack still going to be in use in x years time.
+maintainability
+
+tech debt
+
+CVE - cyber vulnerability exposure
+
+make it work
+keep it simple
+speak out your thought process
+
+github university coding
+
+
+
+

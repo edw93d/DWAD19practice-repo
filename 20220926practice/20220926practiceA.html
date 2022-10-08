@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-compatible" content="IE-edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>20220926 Practice A</title>
+</head>
+
+<!-- internal css => style goes in between head and body -->
+<style>
+  /* class */
+  .bg-color-one {
+    background-color: salmon;
+  }
+
+  .text-color-two {
+    color: blue;
+  }
+
+  /* ID */
+  #main-colors{
+    background-color:violet;
+  }
+</style>
+
+<!-- id > class > element -->
+<!-- id is very specific => only use once per document -->
+<!-- class can be used multiple times -->
+
+<body>
+  <p class="bg-color-one text-color-two">
+    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+  </p>
+
+  <p class="bg-color-one">
+    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+  </p>
+
+  <p class="bg-color-one" id="main-colors">
+    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+  </p>
+
+
+  <!-- image -->
+
+  <img src="img1.jpg" alt="picture of the sea" style="height:300px;">
+
+  <br>
+
+  <!-- video -->
+
+  <video style="height:300px;" , controls autoplay>
+    <source src="vid1.mp4" type="video/mp4">
+    It looks like your browser does not support this video
+  </video>
+
+  <br>
+
+  <!-- iframe/ embedded => best practice is not to use iframe -->
+  <iframe>
+  </iframe>
+
+  <br>
+
+  <!-- inline css vs internal css vs external css -->
+
+
+
+
+
+</body>

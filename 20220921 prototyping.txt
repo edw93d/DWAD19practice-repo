@@ -1,0 +1,30 @@
+stroke 
+
+figma - drag and drop, and then it can generate CSS
+
+webflow - HTML/ CSS convertor plug-in (elementor)
+
+responsive - relies on frameworks (flexbox, bootstrap, fluid)
+
+css-tricks.com
+
+XD prototype - share prototype
+
+Good practices:
+1. Design System
+2. Mobile
+3. Desktop
+
+pravatar
+xframe
+lorem picsum
+
+web-apps:
+bootstrap
+think of boxes, can nest/ hide/ show
+think of everything in terms of rows and columns
+build in web app first, then desktop later
+
+e-mail edm/ newsletter - use mailchimp templates
+
+

@@ -1,0 +1,68 @@
+IU/ UX
+rubrix
+
+skeleton
+wireframe
+
+font
+colour scheme
+
+when do i want people to move through my webapp fast? 
+when do i want people to move through my webapp slow?
+
+personas/ demographics
+needs/ pain points
+features
+
+what people need
+how people consume it
+what people really want
+
+nngroup (nelson norman group)
+interaction-design.org
+
+what are the planes of ui/ux
+surface - visual design
+skeleton - information design
+structure - interaction design
+scope - 
+strategy - 
+
+need vs want
+user stories
+
+barbershop need vs want
+i need to cut my hair
+i need to know how long more i have to wait/ where i am in the queue
+i need to know what time my hair cut will be done
+i need to know how much im going to pay
+i need my payment to be secure
+i die die don't want to download an app
+i need to scan a qr code and join the queue like magic
+i need the app to msg me when it's my turn next so i know when to come back
+
+i want to be able to apply a premium/ discount/ surcharge to meet demand supply
+i want to be able to pay directly to independent barbers/ independent contractors
+
+use case diagrams
+entity relationship diagrams
+
+how tech saavy are my users?
+what are the characteristics of my users?
+be very very specific with my user personas
+
+kanban framework
+trello
+miro
+
+MVP - minimum viable product
+
+how fast the page load
+does it look good on mobile. does it load fast
+are we storing data
+how protected are our servers and data
+is this 100% legal
+
+site map
+
+
